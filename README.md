@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-_Coming Soon_
+### Testing Types
+
+### Testing Queries/Mutations
 
 ## Development
 
